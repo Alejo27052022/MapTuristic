@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958293854315",
+    "project_id": "appmapturistic",
+    "storage_bucket": "appmapturistic.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958293854315:android:c50248bca688333ffb492e",
+        "android_client_info": {
+          "package_name": "com.example.mapturistic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD0PQ96ykvIYpFWZ4OJ_GME7v6hIMny90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
