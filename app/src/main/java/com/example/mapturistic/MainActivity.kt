@@ -8,6 +8,7 @@ import androidx.activity.ComponentActivity
 import com.example.mapturistic.pantallasInfo.PantallaInfo1
 
 class MainActivity : ComponentActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.pantalla_carga)
@@ -16,7 +17,7 @@ class MainActivity : ComponentActivity() {
             val intent = Intent(this, PantallaInfo1::class.java)
             startActivity(intent)
             finish()
-        }, 3000)
+        }, 1500)
 
     }
 }
